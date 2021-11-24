@@ -4,4 +4,4 @@
 
 In this repository are contained all my Linear regression project:
 
-* **Predictiong Medical Expenses Using Linear Regression**
+* **[Predictiong Medical Expenses Using Linear Regression](https://github.com/AndreasDeSousa/Linear_regression_projects/blob/main/Predictiong%20Medical%20Expenses%20Using%20Linear%20Regression.ipynb)**
